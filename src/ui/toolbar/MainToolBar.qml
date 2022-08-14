@@ -68,6 +68,7 @@ Rectangle {
             id:                     currentButton
             Layout.preferredHeight: viewButtonRow.height
             icon.source:            "/res/QGCLogoFull"
+           // icon.source:            "/home/seagull/qgroundcontrol_Seagull/custom/res/Images/CustomAppIcon.png"
             logo:                   true
             onClicked:              mainWindow.showToolSelectDialog()
         }

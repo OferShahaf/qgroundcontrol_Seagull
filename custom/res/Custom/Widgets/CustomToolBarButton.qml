@@ -42,7 +42,7 @@ Button {
             sourceSize.height:      parent.height
             fillMode:               Image.PreserveAspectFit
             color:                  qgcPal.buttonText
-            source:                 button.icon.source
+            source:                "/custom/img/attitude_dial.svg"
             anchors.verticalCenter: parent.verticalCenter
         }
         Label {

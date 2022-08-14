@@ -282,6 +282,7 @@ ApplicationWindow {
             title:      qsTr("Select Tool")
             buttons:    StandardButton.Close
 
+
             property real _toolButtonHeight:    ScreenTools.defaultFontPixelHeight * 3
             property real _margins:             ScreenTools.defaultFontPixelWidth
 
